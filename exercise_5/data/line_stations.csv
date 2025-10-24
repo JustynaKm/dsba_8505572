@@ -1,0 +1,384 @@
+line_id,line_name,station_id,station_name
+bakerloo,Bakerloo,940GZZLUBST,Baker Street Underground Station
+bakerloo,Bakerloo,940GZZLUCHX,Charing Cross Underground Station
+bakerloo,Bakerloo,940GZZLUEAC,Elephant & Castle Underground Station
+bakerloo,Bakerloo,940GZZLUEMB,Embankment Underground Station
+bakerloo,Bakerloo,940GZZLUERB,Edgware Road (Bakerloo) Underground Station
+bakerloo,Bakerloo,940GZZLUHAW,Harrow & Wealdstone Underground Station
+bakerloo,Bakerloo,940GZZLUHSN,Harlesden Underground Station
+bakerloo,Bakerloo,940GZZLUKEN,Kenton Underground Station
+bakerloo,Bakerloo,940GZZLUKPK,Kilburn Park Underground Station
+bakerloo,Bakerloo,940GZZLUKSL,Kensal Green Underground Station
+bakerloo,Bakerloo,940GZZLULBN,Lambeth North Underground Station
+bakerloo,Bakerloo,940GZZLUMVL,Maida Vale Underground Station
+bakerloo,Bakerloo,940GZZLUMYB,Marylebone Underground Station
+bakerloo,Bakerloo,940GZZLUNWY,North Wembley Underground Station
+bakerloo,Bakerloo,940GZZLUOXC,Oxford Circus Underground Station
+bakerloo,Bakerloo,940GZZLUPAC,Paddington Underground Station
+bakerloo,Bakerloo,940GZZLUPCC,Piccadilly Circus Underground Station
+bakerloo,Bakerloo,940GZZLUQPS,Queen's Park Underground Station
+bakerloo,Bakerloo,940GZZLURGP,Regent's Park Underground Station
+bakerloo,Bakerloo,940GZZLUSGP,Stonebridge Park Underground Station
+bakerloo,Bakerloo,940GZZLUSKT,South Kenton Underground Station
+bakerloo,Bakerloo,940GZZLUWJN,Willesden Junction Underground Station
+bakerloo,Bakerloo,940GZZLUWKA,Warwick Avenue Underground Station
+bakerloo,Bakerloo,940GZZLUWLO,Waterloo Underground Station
+bakerloo,Bakerloo,940GZZLUWYC,Wembley Central Underground Station
+central,Central,940GZZLUBKE,Barkingside Underground Station
+central,Central,940GZZLUBKH,Buckhurst Hill Underground Station
+central,Central,940GZZLUBLG,Bethnal Green Underground Station
+central,Central,940GZZLUBND,Bond Street Underground Station
+central,Central,940GZZLUBNK,Bank Underground Station
+central,Central,940GZZLUCHL,Chancery Lane Underground Station
+central,Central,940GZZLUCWL,Chigwell Underground Station
+central,Central,940GZZLUDBN,Debden Underground Station
+central,Central,940GZZLUEAN,East Acton Underground Station
+central,Central,940GZZLUEBY,Ealing Broadway Underground Station
+central,Central,940GZZLUEPG,Epping Underground Station
+central,Central,940GZZLUFLP,Fairlop Underground Station
+central,Central,940GZZLUGFD,Greenford Underground Station
+central,Central,940GZZLUGGH,Grange Hill Underground Station
+central,Central,940GZZLUGTH,Gants Hill Underground Station
+central,Central,940GZZLUHBN,Holborn Underground Station
+central,Central,940GZZLUHGR,Hanger Lane Underground Station
+central,Central,940GZZLUHLT,Hainault Underground Station
+central,Central,940GZZLUHPK,Holland Park Underground Station
+central,Central,940GZZLULGN,Loughton Underground Station
+central,Central,940GZZLULGT,Lancaster Gate Underground Station
+central,Central,940GZZLULVT,Liverpool Street Underground Station
+central,Central,940GZZLULYN,Leyton Underground Station
+central,Central,940GZZLULYS,Leytonstone Underground Station
+central,Central,940GZZLUMBA,Marble Arch Underground Station
+central,Central,940GZZLUMED,Mile End Underground Station
+central,Central,940GZZLUNAN,North Acton Underground Station
+central,Central,940GZZLUNBP,Newbury Park Underground Station
+central,Central,940GZZLUNHG,Notting Hill Gate Underground Station
+central,Central,940GZZLUNHT,Northolt Underground Station
+central,Central,940GZZLUOXC,Oxford Circus Underground Station
+central,Central,940GZZLUPVL,Perivale Underground Station
+central,Central,940GZZLUQWY,Queensway Underground Station
+central,Central,940GZZLURBG,Redbridge Underground Station
+central,Central,940GZZLURSG,Ruislip Gardens Underground Station
+central,Central,940GZZLURVY,Roding Valley Underground Station
+central,Central,940GZZLUSBC,Shepherd's Bush (Central) Underground Station
+central,Central,940GZZLUSNB,Snaresbrook Underground Station
+central,Central,940GZZLUSPU,St. Paul's Underground Station
+central,Central,940GZZLUSRP,South Ruislip Underground Station
+central,Central,940GZZLUSTD,Stratford Underground Station
+central,Central,940GZZLUSWF,South Woodford Underground Station
+central,Central,940GZZLUTCR,Tottenham Court Road Underground Station
+central,Central,940GZZLUTHB,Theydon Bois Underground Station
+central,Central,940GZZLUWCY,White City Underground Station
+central,Central,940GZZLUWOF,Woodford Underground Station
+central,Central,940GZZLUWRP,West Ruislip Underground Station
+central,Central,940GZZLUWSD,Wanstead Underground Station
+central,Central,940GZZLUWTA,West Acton Underground Station
+circle,Circle,940GZZLUALD,Aldgate Underground Station
+circle,Circle,940GZZLUBBN,Barbican Underground Station
+circle,Circle,940GZZLUBKF,Blackfriars Underground Station
+circle,Circle,940GZZLUBST,Baker Street Underground Station
+circle,Circle,940GZZLUBWT,Bayswater Underground Station
+circle,Circle,940GZZLUCST,Cannon Street Underground Station
+circle,Circle,940GZZLUEMB,Embankment Underground Station
+circle,Circle,940GZZLUERC,Edgware Road (Circle Line) Underground Station
+circle,Circle,940GZZLUESQ,Euston Square Underground Station
+circle,Circle,940GZZLUFCN,Farringdon Underground Station
+circle,Circle,940GZZLUGHK,Goldhawk Road Underground Station
+circle,Circle,940GZZLUGPS,Great Portland Street Underground Station
+circle,Circle,940GZZLUGTR,Gloucester Road Underground Station
+circle,Circle,940GZZLUHSC,Hammersmith (H&C Line) Underground Station
+circle,Circle,940GZZLUHSK,High Street Kensington Underground Station
+circle,Circle,940GZZLUKSX,King's Cross St. Pancras Underground Station
+circle,Circle,940GZZLULAD,Ladbroke Grove Underground Station
+circle,Circle,940GZZLULRD,Latimer Road Underground Station
+circle,Circle,940GZZLULVT,Liverpool Street Underground Station
+circle,Circle,940GZZLUMGT,Moorgate Underground Station
+circle,Circle,940GZZLUMMT,Monument Underground Station
+circle,Circle,940GZZLUMSH,Mansion House Underground Station
+circle,Circle,940GZZLUNHG,Notting Hill Gate Underground Station
+circle,Circle,940GZZLUPAC,Paddington Underground Station
+circle,Circle,940GZZLUPAH,Paddington (H&C Line)-Underground
+circle,Circle,940GZZLURYO,Royal Oak Underground Station
+circle,Circle,940GZZLUSBM,Shepherd's Bush Market Underground Station
+circle,Circle,940GZZLUSJP,St. James's Park Underground Station
+circle,Circle,940GZZLUSKS,South Kensington Underground Station
+circle,Circle,940GZZLUSSQ,Sloane Square Underground Station
+circle,Circle,940GZZLUTMP,Temple Underground Station
+circle,Circle,940GZZLUTWH,Tower Hill Underground Station
+circle,Circle,940GZZLUVIC,Victoria Underground Station
+circle,Circle,940GZZLUWLA,Wood Lane Underground Station
+circle,Circle,940GZZLUWSM,Westminster Underground Station
+circle,Circle,940GZZLUWSP,Westbourne Park Underground Station
+district,District,940GZZLUACT,Acton Town Underground Station
+district,District,940GZZLUADE,Aldgate East Underground Station
+district,District,940GZZLUBBB,Bromley-by-Bow Underground Station
+district,District,940GZZLUBEC,Becontree Underground Station
+district,District,940GZZLUBKF,Blackfriars Underground Station
+district,District,940GZZLUBKG,Barking Underground Station
+district,District,940GZZLUBSC,Barons Court Underground Station
+district,District,940GZZLUBWR,Bow Road Underground Station
+district,District,940GZZLUBWT,Bayswater Underground Station
+district,District,940GZZLUCST,Cannon Street Underground Station
+district,District,940GZZLUCWP,Chiswick Park Underground Station
+district,District,940GZZLUDGE,Dagenham East Underground Station
+district,District,940GZZLUDGY,Dagenham Heathway Underground Station
+district,District,940GZZLUEBY,Ealing Broadway Underground Station
+district,District,940GZZLUECM,Ealing Common Underground Station
+district,District,940GZZLUECT,Earl's Court Underground Station
+district,District,940GZZLUEHM,East Ham Underground Station
+district,District,940GZZLUEMB,Embankment Underground Station
+district,District,940GZZLUEPK,Elm Park Underground Station
+district,District,940GZZLUEPY,East Putney Underground Station
+district,District,940GZZLUERC,Edgware Road (Circle Line) Underground Station
+district,District,940GZZLUFBY,Fulham Broadway Underground Station
+district,District,940GZZLUGBY,Gunnersbury Underground Station
+district,District,940GZZLUGTR,Gloucester Road Underground Station
+district,District,940GZZLUHCH,Hornchurch Underground Station
+district,District,940GZZLUHSD,Hammersmith (Dist&Picc Line) Underground Station
+district,District,940GZZLUHSK,High Street Kensington Underground Station
+district,District,940GZZLUKOY,Kensington (Olympia) Underground Station
+district,District,940GZZLUKWG,Kew Gardens Underground Station
+district,District,940GZZLUMED,Mile End Underground Station
+district,District,940GZZLUMMT,Monument Underground Station
+district,District,940GZZLUMSH,Mansion House Underground Station
+district,District,940GZZLUNHG,Notting Hill Gate Underground Station
+district,District,940GZZLUPAC,Paddington Underground Station
+district,District,940GZZLUPLW,Plaistow Underground Station
+district,District,940GZZLUPSG,Parsons Green Underground Station
+district,District,940GZZLUPYB,Putney Bridge Underground Station
+district,District,940GZZLURMD,Richmond Underground Station
+district,District,940GZZLURVP,Ravenscourt Park Underground Station
+district,District,940GZZLUSFB,Stamford Brook Underground Station
+district,District,940GZZLUSFS,Southfields Underground Station
+district,District,940GZZLUSGN,Stepney Green Underground Station
+district,District,940GZZLUSJP,St. James's Park Underground Station
+district,District,940GZZLUSKS,South Kensington Underground Station
+district,District,940GZZLUSSQ,Sloane Square Underground Station
+district,District,940GZZLUTMP,Temple Underground Station
+district,District,940GZZLUTNG,Turnham Green Underground Station
+district,District,940GZZLUTWH,Tower Hill Underground Station
+district,District,940GZZLUUPB,Upminster Bridge Underground Station
+district,District,940GZZLUUPK,Upton Park Underground Station
+district,District,940GZZLUUPM,Upminster Underground Station
+district,District,940GZZLUUPY,Upney Underground Station
+district,District,940GZZLUVIC,Victoria Underground Station
+district,District,940GZZLUWBN,West Brompton Underground Station
+district,District,940GZZLUWHM,West Ham Underground Station
+district,District,940GZZLUWIM,Wimbledon Underground Station
+district,District,940GZZLUWIP,Wimbledon Park Underground Station
+district,District,940GZZLUWKN,West Kensington Underground Station
+district,District,940GZZLUWPL,Whitechapel Underground Station
+district,District,940GZZLUWSM,Westminster Underground Station
+hammersmith-city,Hammersmith & City,940GZZLUADE,Aldgate East Underground Station
+hammersmith-city,Hammersmith & City,940GZZLUBBB,Bromley-by-Bow Underground Station
+hammersmith-city,Hammersmith & City,940GZZLUBBN,Barbican Underground Station
+hammersmith-city,Hammersmith & City,940GZZLUBKG,Barking Underground Station
+hammersmith-city,Hammersmith & City,940GZZLUBST,Baker Street Underground Station
+hammersmith-city,Hammersmith & City,940GZZLUBWR,Bow Road Underground Station
+hammersmith-city,Hammersmith & City,940GZZLUEHM,East Ham Underground Station
+hammersmith-city,Hammersmith & City,940GZZLUERC,Edgware Road (Circle Line) Underground Station
+hammersmith-city,Hammersmith & City,940GZZLUESQ,Euston Square Underground Station
+hammersmith-city,Hammersmith & City,940GZZLUFCN,Farringdon Underground Station
+hammersmith-city,Hammersmith & City,940GZZLUGHK,Goldhawk Road Underground Station
+hammersmith-city,Hammersmith & City,940GZZLUGPS,Great Portland Street Underground Station
+hammersmith-city,Hammersmith & City,940GZZLUHSC,Hammersmith (H&C Line) Underground Station
+hammersmith-city,Hammersmith & City,940GZZLUKSX,King's Cross St. Pancras Underground Station
+hammersmith-city,Hammersmith & City,940GZZLULAD,Ladbroke Grove Underground Station
+hammersmith-city,Hammersmith & City,940GZZLULRD,Latimer Road Underground Station
+hammersmith-city,Hammersmith & City,940GZZLULVT,Liverpool Street Underground Station
+hammersmith-city,Hammersmith & City,940GZZLUMED,Mile End Underground Station
+hammersmith-city,Hammersmith & City,940GZZLUMGT,Moorgate Underground Station
+hammersmith-city,Hammersmith & City,940GZZLUPAH,Paddington (H&C Line)-Underground
+hammersmith-city,Hammersmith & City,940GZZLUPLW,Plaistow Underground Station
+hammersmith-city,Hammersmith & City,940GZZLURYO,Royal Oak Underground Station
+hammersmith-city,Hammersmith & City,940GZZLUSBM,Shepherd's Bush Market Underground Station
+hammersmith-city,Hammersmith & City,940GZZLUSGN,Stepney Green Underground Station
+hammersmith-city,Hammersmith & City,940GZZLUUPK,Upton Park Underground Station
+hammersmith-city,Hammersmith & City,940GZZLUWHM,West Ham Underground Station
+hammersmith-city,Hammersmith & City,940GZZLUWLA,Wood Lane Underground Station
+hammersmith-city,Hammersmith & City,940GZZLUWPL,Whitechapel Underground Station
+hammersmith-city,Hammersmith & City,940GZZLUWSP,Westbourne Park Underground Station
+jubilee,Jubilee,940GZZLUBMY,Bermondsey Underground Station
+jubilee,Jubilee,940GZZLUBND,Bond Street Underground Station
+jubilee,Jubilee,940GZZLUBST,Baker Street Underground Station
+jubilee,Jubilee,940GZZLUCGT,Canning Town Underground Station
+jubilee,Jubilee,940GZZLUCPK,Canons Park Underground Station
+jubilee,Jubilee,940GZZLUCWR,Canada Water Underground Station
+jubilee,Jubilee,940GZZLUCYF,Canary Wharf Underground Station
+jubilee,Jubilee,940GZZLUDOH,Dollis Hill Underground Station
+jubilee,Jubilee,940GZZLUFYR,Finchley Road Underground Station
+jubilee,Jubilee,940GZZLUGPK,Green Park Underground Station
+jubilee,Jubilee,940GZZLUKBN,Kilburn Underground Station
+jubilee,Jubilee,940GZZLUKBY,Kingsbury Underground Station
+jubilee,Jubilee,940GZZLULNB,London Bridge Underground Station
+jubilee,Jubilee,940GZZLUNDN,Neasden Underground Station
+jubilee,Jubilee,940GZZLUNGW,North Greenwich Underground Station
+jubilee,Jubilee,940GZZLUQBY,Queensbury Underground Station
+jubilee,Jubilee,940GZZLUSJW,St. John's Wood Underground Station
+jubilee,Jubilee,940GZZLUSTD,Stratford Underground Station
+jubilee,Jubilee,940GZZLUSTM,Stanmore Underground Station
+jubilee,Jubilee,940GZZLUSWC,Swiss Cottage Underground Station
+jubilee,Jubilee,940GZZLUSWK,Southwark Underground Station
+jubilee,Jubilee,940GZZLUWHM,West Ham Underground Station
+jubilee,Jubilee,940GZZLUWHP,West Hampstead Underground Station
+jubilee,Jubilee,940GZZLUWIG,Willesden Green Underground Station
+jubilee,Jubilee,940GZZLUWLO,Waterloo Underground Station
+jubilee,Jubilee,940GZZLUWSM,Westminster Underground Station
+jubilee,Jubilee,940GZZLUWYP,Wembley Park Underground Station
+metropolitan,Metropolitan,940GZZLUALD,Aldgate Underground Station
+metropolitan,Metropolitan,940GZZLUAMS,Amersham Underground Station
+metropolitan,Metropolitan,940GZZLUBBN,Barbican Underground Station
+metropolitan,Metropolitan,940GZZLUBST,Baker Street Underground Station
+metropolitan,Metropolitan,940GZZLUCAL,Chalfont & Latimer Underground Station
+metropolitan,Metropolitan,940GZZLUCSM,Chesham Underground Station
+metropolitan,Metropolitan,940GZZLUCXY,Croxley Underground Station
+metropolitan,Metropolitan,940GZZLUCYD,Chorleywood Underground Station
+metropolitan,Metropolitan,940GZZLUEAE,Eastcote Underground Station
+metropolitan,Metropolitan,940GZZLUESQ,Euston Square Underground Station
+metropolitan,Metropolitan,940GZZLUFCN,Farringdon Underground Station
+metropolitan,Metropolitan,940GZZLUFYR,Finchley Road Underground Station
+metropolitan,Metropolitan,940GZZLUGPS,Great Portland Street Underground Station
+metropolitan,Metropolitan,940GZZLUHGD,Hillingdon Underground Station
+metropolitan,Metropolitan,940GZZLUHOH,Harrow-on-the-Hill Underground Station
+metropolitan,Metropolitan,940GZZLUICK,Ickenham Underground Station
+metropolitan,Metropolitan,940GZZLUKSX,King's Cross St. Pancras Underground Station
+metropolitan,Metropolitan,940GZZLULVT,Liverpool Street Underground Station
+metropolitan,Metropolitan,940GZZLUMGT,Moorgate Underground Station
+metropolitan,Metropolitan,940GZZLUMPK,Moor Park Underground Station
+metropolitan,Metropolitan,940GZZLUNHA,North Harrow Underground Station
+metropolitan,Metropolitan,940GZZLUNKP,Northwick Park Underground Station
+metropolitan,Metropolitan,940GZZLUNOW,Northwood Underground Station
+metropolitan,Metropolitan,940GZZLUNWH,Northwood Hills Underground Station
+metropolitan,Metropolitan,940GZZLUPNR,Pinner Underground Station
+metropolitan,Metropolitan,940GZZLUPRD,Preston Road Underground Station
+metropolitan,Metropolitan,940GZZLURKW,Rickmansworth Underground Station
+metropolitan,Metropolitan,940GZZLURSM,Ruislip Manor Underground Station
+metropolitan,Metropolitan,940GZZLURSP,Ruislip Underground Station
+metropolitan,Metropolitan,940GZZLURYL,Rayners Lane Underground Station
+metropolitan,Metropolitan,940GZZLUUXB,Uxbridge Underground Station
+metropolitan,Metropolitan,940GZZLUWAF,Watford Underground Station
+metropolitan,Metropolitan,940GZZLUWHW,West Harrow Underground Station
+metropolitan,Metropolitan,940GZZLUWYP,Wembley Park Underground Station
+northern,Northern,940GZZBPSUST,Battersea Power Station Underground Station
+northern,Northern,940GZZLUACY,Archway Underground Station
+northern,Northern,940GZZLUAGL,Angel Underground Station
+northern,Northern,940GZZLUBLM,Balham Underground Station
+northern,Northern,940GZZLUBNK,Bank Underground Station
+northern,Northern,940GZZLUBOR,Borough Underground Station
+northern,Northern,940GZZLUBTK,Burnt Oak Underground Station
+northern,Northern,940GZZLUBTX,Brent Cross Underground Station
+northern,Northern,940GZZLUBZP,Belsize Park Underground Station
+northern,Northern,940GZZLUCFM,Chalk Farm Underground Station
+northern,Northern,940GZZLUCHX,Charing Cross Underground Station
+northern,Northern,940GZZLUCND,Colindale Underground Station
+northern,Northern,940GZZLUCPC,Clapham Common Underground Station
+northern,Northern,940GZZLUCPN,Clapham North Underground Station
+northern,Northern,940GZZLUCPS,Clapham South Underground Station
+northern,Northern,940GZZLUCSD,Colliers Wood Underground Station
+northern,Northern,940GZZLUCTN,Camden Town Underground Station
+northern,Northern,940GZZLUEAC,Elephant & Castle Underground Station
+northern,Northern,940GZZLUEFY,East Finchley Underground Station
+northern,Northern,940GZZLUEGW,Edgware Underground Station
+northern,Northern,940GZZLUEMB,Embankment Underground Station
+northern,Northern,940GZZLUEUS,Euston Underground Station
+northern,Northern,940GZZLUFYC,Finchley Central Underground Station
+northern,Northern,940GZZLUGDG,Goodge Street Underground Station
+northern,Northern,940GZZLUGGN,Golders Green Underground Station
+northern,Northern,940GZZLUHBT,High Barnet Underground Station
+northern,Northern,940GZZLUHCL,Hendon Central Underground Station
+northern,Northern,940GZZLUHGT,Highgate Underground Station
+northern,Northern,940GZZLUHTD,Hampstead Underground Station
+northern,Northern,940GZZLUKNG,Kennington Underground Station
+northern,Northern,940GZZLUKSH,Kentish Town Underground Station
+northern,Northern,940GZZLUKSX,King's Cross St. Pancras Underground Station
+northern,Northern,940GZZLULNB,London Bridge Underground Station
+northern,Northern,940GZZLULSQ,Leicester Square Underground Station
+northern,Northern,940GZZLUMDN,Morden Underground Station
+northern,Northern,940GZZLUMGT,Moorgate Underground Station
+northern,Northern,940GZZLUMHL,Mill Hill East Underground Station
+northern,Northern,940GZZLUMTC,Mornington Crescent Underground Station
+northern,Northern,940GZZLUODS,Old Street Underground Station
+northern,Northern,940GZZLUOVL,Oval Underground Station
+northern,Northern,940GZZLUSKW,Stockwell Underground Station
+northern,Northern,940GZZLUSWN,South Wimbledon Underground Station
+northern,Northern,940GZZLUTAW,Totteridge & Whetstone Underground Station
+northern,Northern,940GZZLUTBC,Tooting Bec Underground Station
+northern,Northern,940GZZLUTBY,Tooting Broadway Underground Station
+northern,Northern,940GZZLUTCR,Tottenham Court Road Underground Station
+northern,Northern,940GZZLUTFP,Tufnell Park Underground Station
+northern,Northern,940GZZLUWFN,West Finchley Underground Station
+northern,Northern,940GZZLUWLO,Waterloo Underground Station
+northern,Northern,940GZZLUWOP,Woodside Park Underground Station
+northern,Northern,940GZZLUWRR,Warren Street Underground Station
+northern,Northern,940GZZNEUGST,Nine Elms Underground Station
+piccadilly,Piccadilly,940GZZLUACT,Acton Town Underground Station
+piccadilly,Piccadilly,940GZZLUALP,Alperton Underground Station
+piccadilly,Piccadilly,940GZZLUASG,Arnos Grove Underground Station
+piccadilly,Piccadilly,940GZZLUASL,Arsenal Underground Station
+piccadilly,Piccadilly,940GZZLUBDS,Bounds Green Underground Station
+piccadilly,Piccadilly,940GZZLUBOS,Boston Manor Underground Station
+piccadilly,Piccadilly,940GZZLUBSC,Barons Court Underground Station
+piccadilly,Piccadilly,940GZZLUCAR,Caledonian Road Underground Station
+piccadilly,Piccadilly,940GZZLUCGN,Covent Garden Underground Station
+piccadilly,Piccadilly,940GZZLUCKS,Cockfosters Underground Station
+piccadilly,Piccadilly,940GZZLUEAE,Eastcote Underground Station
+piccadilly,Piccadilly,940GZZLUECM,Ealing Common Underground Station
+piccadilly,Piccadilly,940GZZLUECT,Earl's Court Underground Station
+piccadilly,Piccadilly,940GZZLUFPK,Finsbury Park Underground Station
+piccadilly,Piccadilly,940GZZLUGPK,Green Park Underground Station
+piccadilly,Piccadilly,940GZZLUGTR,Gloucester Road Underground Station
+piccadilly,Piccadilly,940GZZLUHBN,Holborn Underground Station
+piccadilly,Piccadilly,940GZZLUHGD,Hillingdon Underground Station
+piccadilly,Piccadilly,940GZZLUHNX,Hatton Cross Underground Station
+piccadilly,Piccadilly,940GZZLUHPC,Hyde Park Corner Underground Station
+piccadilly,Piccadilly,940GZZLUHR4,Heathrow Terminal 4 Underground Station
+piccadilly,Piccadilly,940GZZLUHR5,Heathrow Terminal 5 Underground Station
+piccadilly,Piccadilly,940GZZLUHRC,Heathrow Terminals 2 & 3 Underground Station
+piccadilly,Piccadilly,940GZZLUHSD,Hammersmith (Dist&Picc Line) Underground Station
+piccadilly,Piccadilly,940GZZLUHWC,Hounslow Central Underground Station
+piccadilly,Piccadilly,940GZZLUHWE,Hounslow East Underground Station
+piccadilly,Piccadilly,940GZZLUHWT,Hounslow West Underground Station
+piccadilly,Piccadilly,940GZZLUHWY,Holloway Road Underground Station
+piccadilly,Piccadilly,940GZZLUICK,Ickenham Underground Station
+piccadilly,Piccadilly,940GZZLUKNB,Knightsbridge Underground Station
+piccadilly,Piccadilly,940GZZLUKSX,King's Cross St. Pancras Underground Station
+piccadilly,Piccadilly,940GZZLULSQ,Leicester Square Underground Station
+piccadilly,Piccadilly,940GZZLUMRH,Manor House Underground Station
+piccadilly,Piccadilly,940GZZLUNEN,North Ealing Underground Station
+piccadilly,Piccadilly,940GZZLUNFD,Northfields Underground Station
+piccadilly,Piccadilly,940GZZLUOAK,Oakwood Underground Station
+piccadilly,Piccadilly,940GZZLUOSY,Osterley Underground Station
+piccadilly,Piccadilly,940GZZLUPCC,Piccadilly Circus Underground Station
+piccadilly,Piccadilly,940GZZLUPKR,Park Royal Underground Station
+piccadilly,Piccadilly,940GZZLURSM,Ruislip Manor Underground Station
+piccadilly,Piccadilly,940GZZLURSP,Ruislip Underground Station
+piccadilly,Piccadilly,940GZZLURSQ,Russell Square Underground Station
+piccadilly,Piccadilly,940GZZLURYL,Rayners Lane Underground Station
+piccadilly,Piccadilly,940GZZLUSEA,South Ealing Underground Station
+piccadilly,Piccadilly,940GZZLUSGT,Southgate Underground Station
+piccadilly,Piccadilly,940GZZLUSHH,South Harrow Underground Station
+piccadilly,Piccadilly,940GZZLUSKS,South Kensington Underground Station
+piccadilly,Piccadilly,940GZZLUSUH,Sudbury Hill Underground Station
+piccadilly,Piccadilly,940GZZLUSUT,Sudbury Town Underground Station
+piccadilly,Piccadilly,940GZZLUTNG,Turnham Green Underground Station
+piccadilly,Piccadilly,940GZZLUTPN,Turnpike Lane Underground Station
+piccadilly,Piccadilly,940GZZLUUXB,Uxbridge Underground Station
+piccadilly,Piccadilly,940GZZLUWOG,Wood Green Underground Station
+victoria,Victoria,940GZZLUBLR,Blackhorse Road Underground Station
+victoria,Victoria,940GZZLUBXN,Brixton Underground Station
+victoria,Victoria,940GZZLUEUS,Euston Underground Station
+victoria,Victoria,940GZZLUFPK,Finsbury Park Underground Station
+victoria,Victoria,940GZZLUGPK,Green Park Underground Station
+victoria,Victoria,940GZZLUHAI,Highbury & Islington Underground Station
+victoria,Victoria,940GZZLUKSX,King's Cross St. Pancras Underground Station
+victoria,Victoria,940GZZLUOXC,Oxford Circus Underground Station
+victoria,Victoria,940GZZLUPCO,Pimlico Underground Station
+victoria,Victoria,940GZZLUSKW,Stockwell Underground Station
+victoria,Victoria,940GZZLUSVS,Seven Sisters Underground Station
+victoria,Victoria,940GZZLUTMH,Tottenham Hale Underground Station
+victoria,Victoria,940GZZLUVIC,Victoria Underground Station
+victoria,Victoria,940GZZLUVXL,Vauxhall Underground Station
+victoria,Victoria,940GZZLUWRR,Warren Street Underground Station
+victoria,Victoria,940GZZLUWWL,Walthamstow Central Underground Station
+waterloo-city,Waterloo & City,940GZZLUBNK,Bank Underground Station
+waterloo-city,Waterloo & City,940GZZLUWLO,Waterloo Underground Station
